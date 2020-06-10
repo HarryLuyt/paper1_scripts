@@ -1,0 +1,18 @@
+### Python ###
+# Python bytecode
+*.py[cod]
+
+# jupyter notebook checkpoints
+*/.ipynb_checkpoints/*
+.ipynb_checkpoints
+
+### Images ###
+*.png
+
+### Data ###
+*.nc
+*.zip
+
+### Sundires ###
+# xESMF installation
+**/xESMF/
